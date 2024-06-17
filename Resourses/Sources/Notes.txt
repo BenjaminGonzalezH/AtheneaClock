@@ -1,0 +1,5 @@
+Notes for image treatment:
+- Select a Gif image from google, do not worry
+  about size or other issues.
+- Then, try to use online tools to edit the size of
+  your gif and break it down each of its frames.
